@@ -1,0 +1,1 @@
+gcc -Wall -W -ansi netsoul.c netmain.c buffers.c md5_linux.c url.c -o nets0ul
